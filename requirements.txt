@@ -1,6 +1,7 @@
-
 streamlit
-tensorflow
+tensorflow==2.11.0
 numpy
-Pillow
-ipywidgets
+pandas
+scikit-learn
+matplotlib
+
