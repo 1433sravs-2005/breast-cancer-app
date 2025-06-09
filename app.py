@@ -1,3 +1,5 @@
+import tensorflow as tf
+print("TensorFlow version:", tf.__version__)
 import streamlit as st
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
